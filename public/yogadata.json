@@ -1,0 +1,50 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "actName": "Sanskrit: Tadasana",
+    "ageLimit": "20-25",
+    "timeLimit": 30,
+    "img": "https://images.unsplash.com/photo-1599447332412-6bc6830c815a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8eW9nYSUyMHBvc2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "actDescription": "Stand with your feet together or hip-width apart. Ground down through the four corners of your feet. Roll your shoulders away from your ears, draw your shoulder blades down your back, and lift the crown of your head."
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "actName": "Sanskrit: Utkatasana",
+    "ageLimit": "20-25",
+    "timeLimit": 30,
+    "img": "https://images.unsplash.com/photo-1599447292325-2cffaa79bcbb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8eW9nYSUyMHBvc2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "actDescription": "Start in Mountain Pose. As you inhale, raise your arms, spread your fingers, and reach up through your fingertips. As you exhale, sit back and down as if sitting into a chair."
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "actName": "Sanskrit: Uttana shishosana",
+    "ageLimit": "20-25",
+    "timeLimit": 30,
+    "img": "https://images.unsplash.com/photo-1599447292440-c110dfece71a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHlvZ2ElMjBwb3NlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "actDescription": "Place your hands on the back of a chair with palms shoulder-distance apart. Step your feet back until they align under hips, creating a right angle with your body, spine parallel with the floor."
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "actName": "Sanskrit: Adho Mukha Svanasana",
+    "ageLimit": "20-25",
+    "timeLimit": 30,
+    "img": "https://images.unsplash.com/photo-1599447332376-31836ce2aaaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHlvZ2ElMjBwb3NlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "actDescription": "From all fours, walk your hands 6 inches in front of you. Tuck your toes and lift your hips up and back to lengthen your spine. If your hamstrings are tight, keep your knees bent in order to bring your weight back into the legs."
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "actName": "Sanskrit: Virabhadrasana II",
+    "ageLimit": "20-25",
+    "timeLimit": 30,
+    "img": "https://images.unsplash.com/photo-1599447332712-112c3d0cefb4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHlvZ2ElMjBwb3NlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "actDescription": "Stand with feet wide, 3–4 feet apart. Shift your right heel out so your toes are pointing slightly inward. Turn your left foot out 90 degrees. Line up your left heel with the arch of your right foot."
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "actName": "Sanskrit: Trikonasana",
+    "ageLimit": "20-25",
+    "timeLimit": 30,
+    "img": "https://images.unsplash.com/photo-1599447333424-272c8fa5466f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fHlvZ2ElMjBwb3NlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "actDescription": "Stand with feet wide, 3–4 feet apart. Shift your right heel out so your toes are pointing slightly inward. Turn your left foot out 90 degrees. Line up your left heel with the arch of your right foot."
+  }
+]
