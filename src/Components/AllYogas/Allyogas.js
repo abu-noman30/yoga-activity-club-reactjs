@@ -8,7 +8,7 @@ const Allyogas = (props) => {
 	return (
 		<>
 			<div id='all-yogas-container' className='w-10/12 mx-auto'>
-				<div id='banar-section'>
+				<div id='banar-section' className='hidden lg:block'>
 					<Banar />
 				</div>
 				<div

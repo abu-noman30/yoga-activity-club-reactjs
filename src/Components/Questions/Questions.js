@@ -4,7 +4,7 @@ const Questions = () => {
 	return (
 		<>
 			<div id='questions-container' className='mb-12'>
-				<div className='w-10/12 mx-auto bg-white p-16 rounded-2xl shadow-lg'>
+				<div className='w-10/12 mx-auto bg-white p-4 md:p-10 lg:p-16 rounded-2xl shadow-lg'>
 					<div className='accordion' id='accordionExample'>
 						<div className='accordion-item bg-white border border-gray-200'>
 							<h2 className='accordion-header mb-0' id='headingOne'>

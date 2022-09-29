@@ -6,7 +6,7 @@ const Sidebar = (props) => {
 	const { yogaTime } = props;
 	return (
 		<>
-			<div id='sidebar-container' className='sticky top-0'>
+			<div id='sidebar-container' className='sticky top-0 mb-8 lg:mb-0'>
 				<div id='profile-container'>
 					<Profile />
 				</div>

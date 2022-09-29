@@ -24,7 +24,7 @@ const Profile = () => {
 					</div>
 					<div className='w-full flex flex-col justify-between  '>
 						<div className='rounded-lg bg-[#f2f4fa] p-3 w-full shadow-md '>
-							<div className='flex items-center justify-between'>
+							<div className='flex items-center justify-evenly lg:justify-between'>
 								<div className='flex flex-col items-center text-xl font-bold'>
 									<p>
 										75<span className='text-gray-400 text-sm'>kg</span>
