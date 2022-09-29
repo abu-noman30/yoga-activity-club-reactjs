@@ -4,14 +4,14 @@ const Profile = () => {
 	return (
 		<>
 			<div id='profile'>
-				<div className=' w-full py-2 px-4 bg-white '>
-					<div className='flex flex-row items-center gap-8 my-4 mb-8'>
+				<div className=' w-full px-4 bg-white mb-4 '>
+					<div className='flex flex-row items-center gap-8 mb-2'>
 						<img
 							src='https://images.unsplash.com/photo-1642903635601-28d681eca8db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzE3fHx5b2dhJTIwcG9zZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=600&q=60'
 							className='w-16 h-16 rounded-xl object-cover'
 							alt=''
 						/>
-						<div classNameName='h-28 w-full flex flex-col justify-center'>
+						<div className='h-28 w-full flex flex-col justify-center'>
 							<p className='text-gray-800  text-xl font-medium'>John Jackson</p>
 							<p className='text-gray-400 text-xs'>FullStack dev</p>
 
@@ -54,7 +54,6 @@ const Profile = () => {
 					</div>
 				</div>
 			</div>
-			;
 		</>
 	);
 };
