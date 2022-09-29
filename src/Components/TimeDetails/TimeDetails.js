@@ -2,6 +2,7 @@ import React from 'react';
 
 const TimeDetails = (props) => {
 	const { yogaTime } = props;
+	const { breakTime } = props;
 	return (
 		<>
 			<div id='time-details' className='w-full py-2 px-4 bg-white'>
@@ -13,7 +14,9 @@ const TimeDetails = (props) => {
 					</div>
 					<div className='rounded-lg bg-[#f2f4fa] p-3 w-full mb-4 flex items-center justify-between'>
 						<span className='text-lg font-bold'>Break Time</span>
-						<span className='text-normal font-normal'> 20 Second</span>
+						<span className='text-normal font-normal'>
+							{breakTime.slice(0, 2)} Second
+						</span>
 					</div>
 				</div>
 			</div>
