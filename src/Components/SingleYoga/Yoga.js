@@ -4,6 +4,14 @@ const Yogo = (props) => {
 	const { yoga } = props;
 	const { actName, ageLimit, actDescription, img, timeLimit } = yoga;
 	const { yogaTime, setYogaTime } = props;
+	const handlerOnAddTimeToList = (yogaDetails) => {
+		// console.log(yogaDetails);
+
+		if (yogaDetails) {
+			let newTime = yogaTime + yogaDetails.timeLimit;
+			setYogaTime(newTime);
+		}
+	};
 
 	return (
 		<>
