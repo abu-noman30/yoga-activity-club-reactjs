@@ -23,7 +23,7 @@ const Home = () => {
 	return (
 		<>
 			<div id='home-page-container' className='grid grid-cols-4'>
-				{/* Banner Section */}
+				{/* Banner Section-for Medium & Small Devices */}
 				<div className='col-span-4 w-10/12 mx-auto lg:hidden'>
 					<Banar />
 				</div>
