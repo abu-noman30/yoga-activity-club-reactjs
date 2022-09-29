@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import Allyogas from '../AllYogas/Allyogas';
+import Questions from '../Questions/Questions';
 import Sidebar from '../Sidebar/Sidebar';
-
+import 'tw-elements';
 import './Home.css';
 
 const Home = () => {
@@ -28,9 +29,16 @@ const Home = () => {
 						yogaTime={yogaTime}
 						setYogaTime={setYogaTime}
 					/>
+					{/* Questions Container */}
+					<div id='questions-section'>
+						<Questions />
+					</div>
 				</div>
 				{/* IN sidebar - yoga details section */}
-				<div id='sidebar-yoga-details-section' className=' col-span-1 bg-white'>
+				<div
+					id='sidebar-yoga-details-section'
+					className=' col-span-1 bg-white shadow-lg'
+				>
 					<Sidebar yogaTime={yogaTime} />
 				</div>
 			</div>

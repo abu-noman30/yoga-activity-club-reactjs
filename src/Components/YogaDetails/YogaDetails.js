@@ -17,7 +17,7 @@ const YogaDetails = (props) => {
 			<div id='yoga-details'>
 				{/* Break Container */}
 				<div id='break-btns-container'>
-					<BreakTime breakTime={breakTime} setBreakTime={setBreakTime} />
+					<BreakTime setBreakTime={setBreakTime} />
 				</div>
 				{/* Time Details Container */}
 				<div id='time-details-container'>
