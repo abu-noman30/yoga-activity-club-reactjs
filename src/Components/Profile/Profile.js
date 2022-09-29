@@ -13,7 +13,7 @@ const Profile = () => {
 							alt=''
 						/>
 						<div className='h-28 w-full flex flex-col justify-center'>
-							<p className='text-gray-800  text-xl font-medium'>ABU NOMAN</p>
+							<p className='text-gray-800  text-xl font-medium'>NOMAN</p>
 							<p className='text-gray-400 text-x'>Yoga Trainer</p>
 
 							<p className='text-gray-400 text-xs flex items-center pb-[0.3rem]'>
