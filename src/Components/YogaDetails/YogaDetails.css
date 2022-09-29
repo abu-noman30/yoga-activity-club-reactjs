@@ -1,0 +1,10 @@
+#break-container button:active{
+    background-color: #3730a3;
+    color: white;
+
+}
+#break-container button:hover{
+    background-color:black;
+    color: white;
+
+}
