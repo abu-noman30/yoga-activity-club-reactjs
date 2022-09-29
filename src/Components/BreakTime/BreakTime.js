@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { setDataToLocalStorage } from '../../Utilities/LocalStorage/LocalStorage';
 import './BreakTime.css';
 
@@ -11,6 +11,14 @@ const BreakTime = (props) => {
 
 		setDataToLocalStorage(value);
 	};
+
+	useEffect(() => {
+		const checkLocalStorage = localStorage.getItem('break-time');
+		if (checkLocalStorage !== null) {
+			setBreakTime(checkLocalStorage);
+		}
+	}, [setBreakTime]);
+
 	return (
 		<>
 			<div id='break-btns' className='w-full py-2 px-4 bg-white'>
